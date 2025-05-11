@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2Z2ZqMTdrYXNzZGsxbGRicHg2cnZ3MHZ5eHkzYmZhdTh2aGp2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XIqCQx02E1U9W/giphy.gif" width="400" alt="mana gif">
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Pac-Man gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Jakub</h1>
@@ -47,13 +47,6 @@
 - 🔧 DIY Robot Arm with ESP32  
 - 🌡️ Wireless Sensor Network with MQTT  
 - 🚦 PLC Logic Simulator *(WIP)*  
-
----
-
-<!-- Wave animation using HTML/CSS for visual effect -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" alt="wave animation" width="100%" height="100">
-</div>
 
 ---
 
