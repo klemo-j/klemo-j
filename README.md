@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400" alt="Snake gif">
+  <img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" width="400" alt="Pac-Man gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Jakub</h1>
