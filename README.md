@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" width="400" alt="Pac-Man gif">
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="400" alt="Snake gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Jakub</h1>
@@ -9,7 +9,6 @@
 💡 Passionate about <strong>robotics, automation, and embedded systems</strong><br>
 🔧 DIY builder & control systems enthusiast
 </p>
-
 
 ---
 
@@ -62,3 +61,7 @@
 ---
 
 <p align="center">Thanks for stopping by! 🚀</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26uf3wyvdqbfdu5he/giphy.gif" width="400" alt="trippy wave gif">
+</p>
