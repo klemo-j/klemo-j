@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="400" alt="Pac-Man gif">
+  <img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" width="400" alt="Pac-Man gif">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Jakub</h1>
@@ -9,6 +9,7 @@
 💡 Passionate about <strong>robotics, automation, and embedded systems</strong><br>
 🔧 DIY builder & control systems enthusiast
 </p>
+
 
 ---
 
