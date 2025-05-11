@@ -40,8 +40,7 @@
 
 ## 📂 Projects
 
-- 🔧 DIY Robot Arm with ESP32  
-- 🌡️ Wireless Sensor Network with MQTT  
+- 🔧 DIY projects with ESP32   
 - 🚦 PLC Logic Simulator *(WIP)*  
 
 ---
@@ -57,8 +56,9 @@
 ## 📫 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/in/jakub-kleman-5ab933294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jakub.kleman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-kllemo-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
